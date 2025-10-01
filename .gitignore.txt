@@ -1,0 +1,27 @@
+# Configurações e metadados do Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Saídas de compilação (não precisam ir para o GitHub)
+bin/
+target/
+build/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Configurações de outras IDEs (se você abrir no IntelliJ ou VSCode)
+.idea/
+.vscode/
+
+# Arquivos de sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
