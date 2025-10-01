@@ -1,6 +1,6 @@
 # 🎓 Exercícios para fixação em JAVA
 
-- São 30 exercícios com comandos simples para aprendizado e fixação :smile:
+- São 50 exercícios com comandos simples para aprendizado e fixação :smile:
 
 - Ferramenta utilizada - **Eclipse** 💻
 
