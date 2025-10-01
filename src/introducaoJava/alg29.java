@@ -1,6 +1,6 @@
 package introducaoJava;
 
-public class alg29 {
+public class Alg29 {
 
 	public static void main(String[] args) {
 		// Alg 29: Imprimir o seu nome;
@@ -9,4 +9,3 @@ public class alg29 {
 	}
 
 }
-
