@@ -2,7 +2,7 @@
 
 - São 50 exercícios com comandos simples para aprendizado e fixação :smile:
 - Exercícios for , 90 questões para fixação e aprendizado :smile:
-- Exercícios if else .  60 questões para fixação e aprendizado :smile:
+- Exercícios if else ,  60 questões para fixação e aprendizado :smile:
 
 - Ferramenta utilizada - **Eclipse** 💻
 
