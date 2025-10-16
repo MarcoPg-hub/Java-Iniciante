@@ -1,3 +1,14 @@
+# 🎓 Exercícios para fixação em JAVA
+
+- São **50 exercícios** com comandos simples para aprendizado e fixação 😄  
+- Exercícios com **for** – **90 questões** para praticar e aprender 💪  
+- Exercícios com **if / else** – **60 questões** para treinar lógica 🧠  
+
+> **Ferramenta utilizada:** Eclipse 💻
+
+Criticas são bem-vindas! Vamos aprender juntos? Conto com vocês 😃
+
+---
 # ✅ Comandos Java úteis
 
 ## 🔢 Operações matemáticas com `Math`
